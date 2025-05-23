@@ -1,0 +1,481 @@
+video_id,label
+407_drink_1,drinking
+407_drink_10,drinking
+407_drink_11,drinking
+407_drink_12,drinking
+407_drink_13,drinking
+407_drink_14,drinking
+407_drink_15,drinking
+407_drink_16,drinking
+407_drink_17,drinking
+407_drink_18,drinking
+407_drink_19,drinking
+407_drink_2,drinking
+407_drink_20,drinking
+407_drink_3,drinking
+407_drink_4,drinking
+407_drink_5,drinking
+407_drink_6,drinking
+407_drink_7,drinking
+407_drink_8,drinking
+407_drink_9,drinking
+407_normal_1,moving around normally
+407_normal_10,moving around normally
+407_normal_100,moving around normally
+407_normal_11,moving around normally
+407_normal_12,moving around normally
+407_normal_13,moving around normally
+407_normal_14,moving around normally
+407_normal_15,moving around normally
+407_normal_16,moving around normally
+407_normal_17,moving around normally
+407_normal_18,moving around normally
+407_normal_19,moving around normally
+407_normal_2,moving around normally
+407_normal_20,moving around normally
+407_normal_21,moving around normally
+407_normal_22,moving around normally
+407_normal_23,moving around normally
+407_normal_24,moving around normally
+407_normal_25,moving around normally
+407_normal_26,moving around normally
+407_normal_27,moving around normally
+407_normal_28,moving around normally
+407_normal_29,moving around normally
+407_normal_3,moving around normally
+407_normal_30,moving around normally
+407_normal_31,moving around normally
+407_normal_32,moving around normally
+407_normal_33,moving around normally
+407_normal_34,moving around normally
+407_normal_35,moving around normally
+407_normal_36,moving around normally
+407_normal_37,moving around normally
+407_normal_38,moving around normally
+407_normal_39,moving around normally
+407_normal_4,moving around normally
+407_normal_40,moving around normally
+407_normal_41,moving around normally
+407_normal_42,moving around normally
+407_normal_43,moving around normally
+407_normal_44,moving around normally
+407_normal_45,moving around normally
+407_normal_46,moving around normally
+407_normal_47,moving around normally
+407_normal_48,moving around normally
+407_normal_49,moving around normally
+407_normal_5,moving around normally
+407_normal_50,moving around normally
+407_normal_51,moving around normally
+407_normal_52,moving around normally
+407_normal_53,moving around normally
+407_normal_54,moving around normally
+407_normal_55,moving around normally
+407_normal_56,moving around normally
+407_normal_57,moving around normally
+407_normal_58,moving around normally
+407_normal_59,moving around normally
+407_normal_6,moving around normally
+407_normal_60,moving around normally
+407_normal_61,moving around normally
+407_normal_62,moving around normally
+407_normal_63,moving around normally
+407_normal_64,moving around normally
+407_normal_65,moving around normally
+407_normal_66,moving around normally
+407_normal_67,moving around normally
+407_normal_68,moving around normally
+407_normal_69,moving around normally
+407_normal_7,moving around normally
+407_normal_70,moving around normally
+407_normal_71,moving around normally
+407_normal_72,moving around normally
+407_normal_73,moving around normally
+407_normal_74,moving around normally
+407_normal_75,moving around normally
+407_normal_76,moving around normally
+407_normal_77,moving around normally
+407_normal_78,moving around normally
+407_normal_79,moving around normally
+407_normal_8,moving around normally
+407_normal_80,moving around normally
+407_normal_81,moving around normally
+407_normal_82,moving around normally
+407_normal_83,moving around normally
+407_normal_84,moving around normally
+407_normal_85,moving around normally
+407_normal_86,moving around normally
+407_normal_87,moving around normally
+407_normal_88,moving around normally
+407_normal_89,moving around normally
+407_normal_9,moving around normally
+407_normal_90,moving around normally
+407_normal_91,moving around normally
+407_normal_92,moving around normally
+407_normal_93,moving around normally
+407_normal_94,moving around normally
+407_normal_95,moving around normally
+407_normal_96,moving around normally
+407_normal_97,moving around normally
+407_normal_98,moving around normally
+407_normal_99,moving around normally
+407_throw_1,throwing
+407_throw_10,throwing
+407_throw_11,throwing
+407_throw_12,throwing
+407_throw_13,throwing
+407_throw_14,throwing
+407_throw_15,throwing
+407_throw_16,throwing
+407_throw_17,throwing
+407_throw_18,throwing
+407_throw_19,throwing
+407_throw_2,throwing
+407_throw_20,throwing
+407_throw_3,throwing
+407_throw_4,throwing
+407_throw_5,throwing
+407_throw_6,throwing
+407_throw_7,throwing
+407_throw_8,throwing
+407_throw_9,throwing
+407_unwear_1,operating without lab coats
+407_unwear_10,operating without lab coats
+407_unwear_11,operating without lab coats
+407_unwear_12,operating without lab coats
+407_unwear_13,operating without lab coats
+407_unwear_14,operating without lab coats
+407_unwear_15,operating without lab coats
+407_unwear_16,operating without lab coats
+407_unwear_17,operating without lab coats
+407_unwear_18,operating without lab coats
+407_unwear_19,operating without lab coats
+407_unwear_2,operating without lab coats
+407_unwear_20,operating without lab coats
+407_unwear_3,operating without lab coats
+407_unwear_4,operating without lab coats
+407_unwear_5,operating without lab coats
+407_unwear_6,operating without lab coats
+407_unwear_7,operating without lab coats
+407_unwear_8,operating without lab coats
+407_unwear_9,operating without lab coats
+409_drink_1,drinking
+409_drink_10,drinking
+409_drink_11,drinking
+409_drink_12,drinking
+409_drink_13,drinking
+409_drink_14,drinking
+409_drink_15,drinking
+409_drink_16,drinking
+409_drink_17,drinking
+409_drink_18,drinking
+409_drink_19,drinking
+409_drink_2,drinking
+409_drink_20,drinking
+409_drink_3,drinking
+409_drink_4,drinking
+409_drink_5,drinking
+409_drink_6,drinking
+409_drink_7,drinking
+409_drink_8,drinking
+409_drink_9,drinking
+409_normal_1,moving around normally
+409_normal_10,moving around normally
+409_normal_100,moving around normally
+409_normal_11,moving around normally
+409_normal_12,moving around normally
+409_normal_13,moving around normally
+409_normal_14,moving around normally
+409_normal_15,moving around normally
+409_normal_16,moving around normally
+409_normal_17,moving around normally
+409_normal_18,moving around normally
+409_normal_19,moving around normally
+409_normal_2,moving around normally
+409_normal_20,moving around normally
+409_normal_21,moving around normally
+409_normal_22,moving around normally
+409_normal_23,moving around normally
+409_normal_24,moving around normally
+409_normal_25,moving around normally
+409_normal_26,moving around normally
+409_normal_27,moving around normally
+409_normal_28,moving around normally
+409_normal_29,moving around normally
+409_normal_3,moving around normally
+409_normal_30,moving around normally
+409_normal_31,moving around normally
+409_normal_32,moving around normally
+409_normal_33,moving around normally
+409_normal_34,moving around normally
+409_normal_35,moving around normally
+409_normal_36,moving around normally
+409_normal_37,moving around normally
+409_normal_38,moving around normally
+409_normal_39,moving around normally
+409_normal_4,moving around normally
+409_normal_40,moving around normally
+409_normal_41,moving around normally
+409_normal_42,moving around normally
+409_normal_43,moving around normally
+409_normal_44,moving around normally
+409_normal_45,moving around normally
+409_normal_46,moving around normally
+409_normal_47,moving around normally
+409_normal_48,moving around normally
+409_normal_49,moving around normally
+409_normal_5,moving around normally
+409_normal_50,moving around normally
+409_normal_51,moving around normally
+409_normal_52,moving around normally
+409_normal_53,moving around normally
+409_normal_54,moving around normally
+409_normal_55,moving around normally
+409_normal_56,moving around normally
+409_normal_57,moving around normally
+409_normal_58,moving around normally
+409_normal_59,moving around normally
+409_normal_6,moving around normally
+409_normal_60,moving around normally
+409_normal_61,moving around normally
+409_normal_62,moving around normally
+409_normal_63,moving around normally
+409_normal_64,moving around normally
+409_normal_65,moving around normally
+409_normal_66,moving around normally
+409_normal_67,moving around normally
+409_normal_68,moving around normally
+409_normal_69,moving around normally
+409_normal_7,moving around normally
+409_normal_70,moving around normally
+409_normal_71,moving around normally
+409_normal_72,moving around normally
+409_normal_73,moving around normally
+409_normal_74,moving around normally
+409_normal_75,moving around normally
+409_normal_76,moving around normally
+409_normal_77,moving around normally
+409_normal_78,moving around normally
+409_normal_79,moving around normally
+409_normal_8,moving around normally
+409_normal_80,moving around normally
+409_normal_81,moving around normally
+409_normal_82,moving around normally
+409_normal_83,moving around normally
+409_normal_84,moving around normally
+409_normal_85,moving around normally
+409_normal_86,moving around normally
+409_normal_87,moving around normally
+409_normal_88,moving around normally
+409_normal_89,moving around normally
+409_normal_9,moving around normally
+409_normal_90,moving around normally
+409_normal_91,moving around normally
+409_normal_92,moving around normally
+409_normal_93,moving around normally
+409_normal_94,moving around normally
+409_normal_95,moving around normally
+409_normal_96,moving around normally
+409_normal_97,moving around normally
+409_normal_98,moving around normally
+409_normal_99,moving around normally
+409_throw_1,throwing
+409_throw_10,throwing
+409_throw_11,throwing
+409_throw_12,throwing
+409_throw_13,throwing
+409_throw_14,throwing
+409_throw_15,throwing
+409_throw_16,throwing
+409_throw_17,throwing
+409_throw_18,throwing
+409_throw_19,throwing
+409_throw_2,throwing
+409_throw_20,throwing
+409_throw_3,throwing
+409_throw_4,throwing
+409_throw_5,throwing
+409_throw_6,throwing
+409_throw_7,throwing
+409_throw_8,throwing
+409_throw_9,throwing
+409_unwear_1,operating without lab coats
+409_unwear_10,operating without lab coats
+409_unwear_11,operating without lab coats
+409_unwear_12,operating without lab coats
+409_unwear_13,operating without lab coats
+409_unwear_14,operating without lab coats
+409_unwear_15,operating without lab coats
+409_unwear_16,operating without lab coats
+409_unwear_17,operating without lab coats
+409_unwear_18,operating without lab coats
+409_unwear_19,operating without lab coats
+409_unwear_2,operating without lab coats
+409_unwear_20,operating without lab coats
+409_unwear_3,operating without lab coats
+409_unwear_4,operating without lab coats
+409_unwear_5,operating without lab coats
+409_unwear_6,operating without lab coats
+409_unwear_7,operating without lab coats
+409_unwear_8,operating without lab coats
+409_unwear_9,operating without lab coats
+410_drink_1,drinking
+410_drink_10,drinking
+410_drink_11,drinking
+410_drink_12,drinking
+410_drink_13,drinking
+410_drink_14,drinking
+410_drink_15,drinking
+410_drink_16,drinking
+410_drink_17,drinking
+410_drink_18,drinking
+410_drink_19,drinking
+410_drink_2,drinking
+410_drink_20,drinking
+410_drink_3,drinking
+410_drink_4,drinking
+410_drink_5,drinking
+410_drink_6,drinking
+410_drink_7,drinking
+410_drink_8,drinking
+410_drink_9,drinking
+410_normal_1,moving around normally
+410_normal_10,moving around normally
+410_normal_100,moving around normally
+410_normal_11,moving around normally
+410_normal_12,moving around normally
+410_normal_13,moving around normally
+410_normal_14,moving around normally
+410_normal_15,moving around normally
+410_normal_16,moving around normally
+410_normal_17,moving around normally
+410_normal_18,moving around normally
+410_normal_19,moving around normally
+410_normal_2,moving around normally
+410_normal_20,moving around normally
+410_normal_21,moving around normally
+410_normal_22,moving around normally
+410_normal_23,moving around normally
+410_normal_24,moving around normally
+410_normal_25,moving around normally
+410_normal_26,moving around normally
+410_normal_27,moving around normally
+410_normal_28,moving around normally
+410_normal_29,moving around normally
+410_normal_3,moving around normally
+410_normal_30,moving around normally
+410_normal_31,moving around normally
+410_normal_32,moving around normally
+410_normal_33,moving around normally
+410_normal_34,moving around normally
+410_normal_35,moving around normally
+410_normal_36,moving around normally
+410_normal_37,moving around normally
+410_normal_38,moving around normally
+410_normal_39,moving around normally
+410_normal_4,moving around normally
+410_normal_40,moving around normally
+410_normal_41,moving around normally
+410_normal_42,moving around normally
+410_normal_43,moving around normally
+410_normal_44,moving around normally
+410_normal_45,moving around normally
+410_normal_46,moving around normally
+410_normal_47,moving around normally
+410_normal_48,moving around normally
+410_normal_49,moving around normally
+410_normal_5,moving around normally
+410_normal_50,moving around normally
+410_normal_51,moving around normally
+410_normal_52,moving around normally
+410_normal_53,moving around normally
+410_normal_54,moving around normally
+410_normal_55,moving around normally
+410_normal_56,moving around normally
+410_normal_57,moving around normally
+410_normal_58,moving around normally
+410_normal_59,moving around normally
+410_normal_6,moving around normally
+410_normal_60,moving around normally
+410_normal_61,moving around normally
+410_normal_62,moving around normally
+410_normal_63,moving around normally
+410_normal_64,moving around normally
+410_normal_65,moving around normally
+410_normal_66,moving around normally
+410_normal_67,moving around normally
+410_normal_68,moving around normally
+410_normal_69,moving around normally
+410_normal_7,moving around normally
+410_normal_70,moving around normally
+410_normal_71,moving around normally
+410_normal_72,moving around normally
+410_normal_73,moving around normally
+410_normal_74,moving around normally
+410_normal_75,moving around normally
+410_normal_76,moving around normally
+410_normal_77,moving around normally
+410_normal_78,moving around normally
+410_normal_79,moving around normally
+410_normal_8,moving around normally
+410_normal_80,moving around normally
+410_normal_81,moving around normally
+410_normal_82,moving around normally
+410_normal_83,moving around normally
+410_normal_84,moving around normally
+410_normal_85,moving around normally
+410_normal_86,moving around normally
+410_normal_87,moving around normally
+410_normal_88,moving around normally
+410_normal_89,moving around normally
+410_normal_9,moving around normally
+410_normal_90,moving around normally
+410_normal_91,moving around normally
+410_normal_92,moving around normally
+410_normal_93,moving around normally
+410_normal_94,moving around normally
+410_normal_95,moving around normally
+410_normal_96,moving around normally
+410_normal_97,moving around normally
+410_normal_98,moving around normally
+410_normal_99,moving around normally
+410_throw_1,throwing
+410_throw_10,throwing
+410_throw_11,throwing
+410_throw_12,throwing
+410_throw_13,throwing
+410_throw_14,throwing
+410_throw_15,throwing
+410_throw_16,throwing
+410_throw_17,throwing
+410_throw_18,throwing
+410_throw_19,throwing
+410_throw_2,throwing
+410_throw_20,throwing
+410_throw_3,throwing
+410_throw_4,throwing
+410_throw_5,throwing
+410_throw_6,throwing
+410_throw_7,throwing
+410_throw_8,throwing
+410_throw_9,throwing
+410_unwear_1,operating without lab coats
+410_unwear_10,operating without lab coats
+410_unwear_11,operating without lab coats
+410_unwear_12,operating without lab coats
+410_unwear_13,operating without lab coats
+410_unwear_14,operating without lab coats
+410_unwear_15,operating without lab coats
+410_unwear_16,operating without lab coats
+410_unwear_17,operating without lab coats
+410_unwear_18,operating without lab coats
+410_unwear_19,operating without lab coats
+410_unwear_2,operating without lab coats
+410_unwear_20,operating without lab coats
+410_unwear_3,operating without lab coats
+410_unwear_4,operating without lab coats
+410_unwear_5,operating without lab coats
+410_unwear_6,operating without lab coats
+410_unwear_7,operating without lab coats
+410_unwear_8,operating without lab coats
+410_unwear_9,operating without lab coats
